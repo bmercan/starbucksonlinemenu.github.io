@@ -1,0 +1,109 @@
+{
+    "lang":"turkish",
+    "appUtils":{
+        "welcoming":"ITMA 2023'e Hoş Geldiniz",
+        "appBarTitle":"ITMA 2023 MILANO",
+        "fairCenter":"Fuar Merkezi",
+        "requestOffer":"Teklif Al",
+        "description":"Açıklama",
+        "standSize":"Stand Büyüklüğü m²",
+        "numberOfRooms":"Oda Sayısı",
+        "pickDate":"Tarih Seç",
+        "tram":"Tramvay",
+        "bus":"Otobüs"
+    },
+    "itmaInfo":{
+        "fairCity":"MİLAN - İTALYA",
+        "fairCenter":"FIERA MILANO RHO",
+        "regulationButton":"ITMA 2023 - Mevzuat",
+        "brochureButton":"ITMA 2023 - Milano Fuarı Hakkında",
+        "p1":{
+            "title":"Tekstil, Konfeksiyon ve İnovasyon Dünyalarının Birleştiği Yer",
+            "body":"ITMA, dünyanın en etkili tekstil ve hazır giyim teknolojisi fuarıdır. CEMATEX'in sahibi olduğu ITMA, en son tekstil ve hazır giyim işleme teknolojilerini, makine ve malzemeleri sergilemek, işbirliklerini teşvik etmek ve ortaklıklar kurmak için endüstrinin her dört yılda bir birleştiği yerdir."
+        },
+        "p2":{
+            "title":"Entegre Tekstil ve Konfeksiyon İmalatı Değer Zincirinin Parçası Olun",
+            "body":"Küresel bir izleyici kitlesinin katıldığı ITMA, dünyanın en iyi tekstil ve hazır giyim üreticilerinden ve önde gelen marka sahiplerinden kilit karar alıcılarla buluşmak, pazar bilgisi toplamak ve işbirlikçi ortaklıklar kurmak ve iş yapmak için en iyi yerdir."
+        },
+        "p3":{
+            "title":"Güçlü İş Ortakları Ağı",
+            "body":"ITMA, etkinliklerde işbirliği yapmak, ziyaret heyetleri oluşturmak ve ITMA 2023 için ilgili içerik oluşturmak için küresel tekstil topluluğuyla yakın bir şekilde çalışır."
+        }
+    },
+    "authPages":{
+        "loginPage":{
+            "mailField":"Mail",
+            "passwordField":"Şifre",
+            "loginButton":"Giriş Yap",
+            "dividerOr":"veya",
+            "dontHaveAnAccount":"Hesabın Yok Mu ? ",
+            "register":"Kayıt Ol",
+            "checkYourMail":"Mail Adresini Kontrol Et"
+        },
+        "registerPage":{
+            "title":"Kayıt Ol",
+            "passwordField":"Şifre",
+            "rePasswordField":"Şifre Tekrar",
+            "nameSurname":"Ad Soyad",
+            "firmName":"Firma Adı",
+            "passwordMustBeLongThan6Char":"Şifreniz 6 Karakterden Fazla Olmalıdır",
+            "phoneNumber":"Telefon"
+            
+        }
+    },
+    "homePage":{
+        "homePageButtons":{
+            "turkishParticipants":"Türk Katılımcılar",
+            "standDecoration":"Stant Dekoru",
+            "shipping":"Nakliye",
+            "accomodation":"Konaklama",
+            "placesToVisit":"Gezilecek Yerler",
+            "restaurants":"Restoranlar",
+            "consulship":"Konsolosluk",
+            "transport":"Ulaşım"
+        }
+    },
+    "fairCenterPage":{
+        "congressCentre":"Kongre Merkezi",
+        "linkWay":"Koridor",
+        "pleaseSelectAHall":"Lütfen Bir Salon Seçin"
+    },
+    "transportationData":{
+        "place1":{
+            "p1":"Milano'da 80'den fazla yerel otobüs hattı ve birkaç troleybüs hattı (havai kablolarla çalışan elektrikli otobüsler) vardır. Şehrin metro ağı çok sınırlı olduğu için Milano'nun şehir içi otobüsleri şehri dolaşmanın en iyi yollarından biri.",
+            "h1":"Gece otobüsleri",
+            "p2":"2015'ten beri Milano'nun gece otobüsleri haftanın her günü çalışıyor. Gece yarısından sabah 6'ya kadar seyahat eden on beş rota var. Bunlar her 30 dakikada bir kalkıyor. Otobüsler Milano'nun çeşitli mahallelerinden kalkmaktadır, bunların çoğu şehrin en ünlü gece hayatı bölgeleridir (Stelvio ile Valtellina, Pagano ile Milton, Como ile Sturzo, Piazza XXIV Maggio, Tito Livio ile Umbria, XXII Marzo ile Umbria, Tantardini ile Castelbarco ve Pietrasanta ile Ripamonti) Gündüz ATM ağında olduğu gibi gece hizmetinde de aynı bilet ve seyahat kartlarını kullanabilirsiniz. Biletler, Milano'da bulunan herhangi bir parkmetreden 1,50 € karşılığında satın alınabilir.",
+            "h2":"Linate Havaalanı Otobüs Bileti",
+            "p3":"Linate Havalimanı'na uçarsanız şehir merkezine giden yerel bir otobüse binebilirsiniz. 73 ve X73 numaralı otobüsler, havalimanını San Babila metro istasyonuna bağlar. Bilet, diğer tek yön biletler gibi 1,50 Euro'dur. Linate Havalimanı'ndan şehir merkezine ulaşım için kesinlikle en ucuz alternatif bu.",
+            "h3":"Otobüs biletleri nereden alınır?",
+            "p4":"Otobüs biletleri ve seyahat kartları (şehrin diğer ulaşım araçlarında da kullanılabilir) herhangi bir metro istasyonundan, büfeden veya Milano'nun herhangi bir parkmetresinden satın alınabilir.",
+            "h4":"Program ve sıklık",
+            "p5":"Otobüsler Milano'da sabah 5:30 - 6:00 ile 12:30 (gece yarısı) - 1:45 arasında çalışır. 25 Aralık ve 1 Mayıs tarihlerinde otobüsler sabah 7'den akşam 7:30'a kadar çalışır."
+        },
+        "place2":{
+            "h1":"Milan metro ve kentsel tren haritası",
+            "p1":"Milano'daki dört metro hattı numaralandırılmıştır ve çeşitli renklerdedir:• M1 Hattı (kırmızı): Bu hat, özellikle Milano'ya iş için seyahat ediyorsanız ve Fiera Milano'ya ulaşmak istiyorsanız kullanışlıdır. Hat ayrıca Duomo ve San Babila'da durmaktadır.• M2 Hattı (yeşil): M2, Milano Centrale'de durur.• M3 Hattı (sarı): M3 muhtemelen turistler için en uygun hat. Duomo'da, Via Montenapoleone'de (Milano'nun en önemli ticari bölgesi) ve Milano Centrale'de durmaktadır.• M5 Hattı (mor): M5, bölgesel trenlerle entegredir. Ziyaretçiler şu durakları ilginç bulacaktır: Garibaldi istasyonu ve Stadio Giuseppe Meazza.• Milano Metrosu şu anda beşinci hatta (mavi hat) çalışmaktadır.Milano'nun merkezinde konaklıyorsanız, havalimanına gitmek dışında metroya binmenize gerek kalmayacağını unutmayın.",
+            "h2":"Metro biletleri nereden alınır?",
+            "p2":"Metro biletleri ve seyahat kartları metro istasyonlarından, büfelerden satın alınabilir.Düzenli olarak metroya binmeniz gerekiyorsa, tek seferde çeşitli tek yön biletler almanızı veya seyahat kartı almanızı öneririz.",
+            "h3":"Program ve sıklık",
+            "p3":"Metro her gün sabah 6'dan 12:30'a (gece yarısı) kadar açıktır. 25 Aralık ve 1 Mayıs'ta metro sabah 7'den akşam 7:30'a kadar açılıyor.Milano Metrosu'nun frekansı günün saatine, hatta ve haftanın gününe göre değişir ancak genellikle trenler 2-4 dakikada bir gelir. Şehir merkezinin dışında, örneğin M2 hattının son duraklarında, trenler her 30 dakikada bir hareket ediyor."
+        },
+        "place3":{
+            "p1":"Milano tramvay ağ sistemi, gece yarısını geçene kadar çalışan 18 hattan oluşuyor. Milano'daki tramvayların tarifeleri, Milano Metrosu ve şehrin yerel otobüslerine kıyasla daha uzundur. Tramvaylar 1'den 33'e kadar numaralandırılmıştır. Kısa bir süre önce (yirminci yüzyılın ikinci yarısında) hizmete açılan Milano Metro ağıyla karşılaştırıldığında, Milano'daki tramvaylar atların çektiği 1876'dan beri çalışıyor. Paris ve diğer Avrupa şehirlerinin aksine Milano, tramvay ağı sistemini her zaman çalışır durumda tuttu. Milano'daki tramvaylar, geniş ağı sayesinde şehri dolaşmanın en kolay ve hızlı yollarından biridir.",
+            "h1":"Tarihi tramvaylar",
+            "p2":"Milano'da en modern olandan en klasiğe kadar çeşitli dönemlerden tramvaylar çalışır. En tuhaf olanı, 1928-1930 yıllarına dayanan 1500 serisi tramvaylardır. Bu tramvay modelleri Lizbon, Oporto ve San Francisco'da da görülebilir.Amerikan şehri tramvaylarını Milano'dan satın aldığı için San Francisco'nun durumu daha da sıra dışı.",
+            "h2":"Tramvay biletleri nereden alınır?",
+            "p3":"Tramvay (veya Milano'daki herhangi bir ulaşım aracı) için biletler metro duraklarından, büfelerden satın alınabilir.Milano'nun toplu taşıma araçlarını kullanmayı planlıyorsanız, birkaç tek yönlü bilet almanızı veya 24 saatlik ya da 48 saatlik seyahat bileti almanızı öneririz.",
+            "h3":"Program ve sıklık",
+            "p4":"Milano'da tramvaylar gece 04:30 - 05:00 ile 02:00 - 02:30 saatleri arasında çalışır. 25 Aralık ve 1 Mayıs tarihlerinde tramvaylar sabah 7'den akşam 7:30'a kadar çalışır."    
+    }
+    },
+    "profilePage":{
+        "personalInformation":"Kişisel Bilgilerim",
+        "writeUs":"Bize Ulaşın",
+        "myRequests":"Taleplerim",
+        "language":"Uygulama Dili",
+        "aboutUs":"Hakkımızda",
+        "exit":"Çıkış"
+    }
+}

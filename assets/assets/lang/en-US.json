@@ -1,0 +1,108 @@
+{
+    "lang":"english",
+    "appUtils":{
+        "welcoming":"Welcome To ITMA 2023",
+        "appBarTitle":"ITMA 2023 MILAN",
+        "fairCenter":"Fair Center",
+        "requestOffer":"Request Offer",
+        "description":"Description",
+        "standSize":"Stand Size m²",
+        "numberOfRooms":"Number of Rooms",
+        "pickDate":"Pick Date",
+        "tram":"Tram",
+        "bus":"Bus"
+    },
+    "itmaInfo":{
+        "fairCity":"MILAN - ITALY",
+        "fairCenter":"FIERA MILANO RHO",
+        "regulationButton":"ITMA 2023 - General Regulations",
+        "brochureButton":"ITMA 2023 - Sales Brochure",
+        "p1":{
+            "title":"Where the Worlds of Textiles, Garment and Innovation Converge",
+            "body":"ITMA is the world's most influential textile and garment technology exhibition. Owned by CEMATEX, ITMA is the place where the industry converges every four years to showcase the latest textile and garment processing technologies, machinery and materials, promote collaborations and forge partnerships."
+        },
+        "p2":{
+            "title":"Be Part of the Integrated Textile and Garment Manufacturing Value Chain",
+            "body":"Participated by a global audience, ITMA is THE place to meet key decision-makers from the world's top textile and garment producers and leading brand owners, gather market intelligence and forge collaborative partnerships. It is where business is done."
+        },
+        "p3":{
+            "title":"A Strong Network of Partners",
+            "body":"ITMA works closely with the global textile community to collaborate on events, form visiting delegations and create relevant content for ITMA 2023."
+        }
+    },
+    "authPages":{
+        "loginPage":{
+            "mailField":"Mail",
+            "passwordField":"Password",
+            "loginButton":"Login",
+            "dividerOr":"or",
+            "dontHaveAnAccount":"Don't Have An Account ? ",
+            "register":"Register",
+            "checkYourMail":"Check Your Mail"
+        },
+        "registerPage":{
+            "title":"Register",
+            "passwordField":"Password",
+            "rePasswordField":"Password Again",
+            "nameSurname":"Name",
+            "firmName":"Firm Name",
+            "passwordMustBeLongThan6Char":"Password Must Be Longer Than 6 Characters",
+            "phoneNumber":"Phone"
+        }
+    },
+    "homePage":{
+        "homePageButtons":{
+            "turkishParticipants":"Turkish Exhibitors",
+            "standDecoration":"Stand Decoration",
+            "shipping":"Shipping",
+            "accomodation":"Accomodation",
+            "placesToVisit":"Places To Visit",
+            "restaurants":"Restraunts",
+            "consulship":"Consulship",
+            "transport":"Transport"
+        }
+    },
+    "fairCenterPage":{
+        "congressCentre":"Congress Centre",
+        "linkWay":"Linkway",
+        "pleaseSelectAHall":"Please Select A Hall"
+    },
+    "transportationData":{
+        "place1":{
+            "p1":"Milan has over 80 local bus lines and a few trolleybus lines (electric buses that run with overhead wires). Since the city’s metro network is so limited, Milan’s urban buses are one of the best ways to get around the city.",
+            "h1":"Night buses",
+            "p2":"Since 2015, Milan’s night buses run every day of the week. There are fifteen routes that travel from midnight until 6 am. These depart every 30 minutes. The buses depart from various neighbourhoods in Milan, most of them are the city’s most famous nightlife areas (Valtellina with Stelvio, Milton with Pagano, Sturzo with Como, Piazza XXIV Maggio, Umbria with Tito Livio, Umbria with XXII Marzo, Castelbarco with Tantardini and Ripamonti with Pietrasanta).You can use the same tickets and travel cards on the night service as on the day ATM network. Tickets can be purchased from any of the parking meters found in Milan for €1.50.,Gündüz ATM ağında olduğu gibi gece hizmetinde de aynı bilet ve seyahat kartlarını kullanabilirsiniz. Biletler, Milano'da bulunan herhangi bir parkmetreden 1,50 € karşılığında satın alınabilir.",
+            "h2":"Bus to Linate Airport",
+            "p3":"If you fly to Linate Airport you can take a local bus to the city centre. The buses 73 and X73 connect the airport to the metro station San Babila.The ticket costs €1.50, just like any other one-way ticket. This is definitely the cheapest alternative to get to the city centre from Linate Airport.",
+            "h3":"Where to purchase the bus tickets?",
+            "p4":"The bus tickets and travel cards (which can also be used on the city’s other means of transport) can be purchased at any metro station, kiosk, off-license or in any of Milan’s parking meters.",
+            "h4":"Schedule and frequency",
+            "p5":"The buses run in Milan from 5:30 - 6 am in the morning until 12:30 am (midnight) - 1:45 am.The 25 December and 1 May the buses run from 7 am until 7:30 pm."
+        },
+        "place2":{
+            "h1":"Milan metro and urban train map",
+            "p1":"The four metro lines in Milan are numbered and have various colours: Line M1 (red): This line is useful, especially if you are travelling to Milan on business and want to reach the Fiera Milano. The line also stops at the Duomo and San Babila. Line M2 (green): The M2 stops at Milano Centrale. Line M3 (yellow): The M3 is probably the most convenient line for tourists. It stops at the Duomo, in Via Montenapoleone (the most important commercial area in Milan) and Milano Centrale. Line M5 (purple): The M5 is integrated with the regional trains. Visitors will find the following stops interesting: Garibaldi station and Stadio Giuseppe Meazza. The Milan Metro is currently working on the fifth line (blue line).Note that if you are staying in the centre of Milan, it is probable that you will not need to take the metro except to go to the airport.",
+            "h2":"Where to purchase the metro tickets?",
+            "p2":"The metro tickets and travel cards can be purchased in the metro stations, kiosks and off-licenses. If you need to take the metro on a regular basis, we recommend buying various one-way tickets at a time or purchasing a travel card.",
+            "h3":"Schedule and frequency",
+            "p3":"The metro opens every day from 6 am until 12:30 am (midnight). On 25 December and 1 of May, the metro opens from 7 am until 7:30 pm. The frequency of the Milan Metro depends on the time of day, on the line and the day of the week, but generally the trains arrive every 2-4 minute Outside the city centre, for example, the last stops of the M2 line, trains run every 30 minutes."
+        },
+        "place3":{
+            "p1":"The Milan tram network system consists of 18 lines that run until past midnight. The trams in Milan have longer schedules compared to the Milan Metro and the city’s local buses. The trams are numbered from 1 to 33. Compared to the Milan Metro network, which was inaugurated not very long ago (in the second half of the twentieth century), the trams in Milan have running since 1876, when they were pulled by horses. Unlike in Paris and other European cities, Milan has always kept its tram network system running. The trams in Milan are one of the easiest and fastest ways to get around the city, thanks to its extensive network.",
+            "h1":"Historic trams",
+            "p2":"Trams from several periods run in Milan, from the most modern and “psychedelic” to the most classic. The most peculiar are the 1500 series trams, which date back to 1928-1930. These models of trams can also be seen in Lisbon, Oporto and San Francisco. San Francisco’s case is even more extraordinary since the American city bought their trams from Milan.",
+            "h2":"Where to purchase the tram tickets?",
+            "p3":"The tickets for the tram (or any other means of transport in Milan) can be purchased in the metro stops, kiosks or off-licenses. If you are planning to use Milan’s public transport, we recommend buying several one-way tickets or buying a 24-hour or 48-hour travel pass.",
+            "h3":"Schedule and frequency",
+            "p4":"Trams run in Milan from 4:30 am - 5 am until 2 am - 2:30 am at night. On 25 December and 1 May, the trams run from 7 am until 7:30 pm."    
+    }
+  },
+  "profilePage":{
+      "personalInformation":"Personal Information",
+      "writeUs":"Write Us",
+      "myRequests":"My Requests",
+      "language":"App Language",
+      "aboutUs":"About Us",
+      "exit":"Exit"
+  }
+}
